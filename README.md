@@ -19,7 +19,7 @@ summary of existing deepfake datasets.
 * **ForgeryNet**: "ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis." [Paper](https://arxiv.org/abs/2103.05630)    [Download](https://github.com/yinanhe/forgerynet)
 
 |                     | Year |Real Videos | Fake Videos |
-| :-----------------: | |:---------: | :---------: |
+| :-----------------: |:---------: |:---------: | :---------: |
 |        UADFV        |2018 |    49      |     49      |
 |   Deepfake-TIMIT    |2018  |   320     |     640     |
 |   FaceForensic++    | 2019|   1000     |    5000     |
